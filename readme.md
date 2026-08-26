@@ -9,10 +9,12 @@ Tein tehtävä 1 & 2
 
 ## Moduuli 2
 
-Tein rivin valmiiksi
+Kirjoitettua tekstiä
 
 ## Moduuli 3
 
-Tein rivin valmiiksi
+Kirjoitettua tekstiä
 
 ## Moduuli 4
+
+Kirjoitettua tekstiä
