@@ -5,7 +5,7 @@
 
 ## Moduuli 1
 
-Tein tehtävä 1 & 2
+Tein tehtävä 1 & 
 
 ## Moduuli 2
 
