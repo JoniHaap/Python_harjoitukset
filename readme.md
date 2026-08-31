@@ -5,11 +5,11 @@
 
 ## Moduuli 1
 
-Tein tehtävä 1 & 
+Tein tehtävän
 
 ## Moduuli 2
 
-Kirjoitettua tekstiä
+Tein tehtävän 1, 2, 
 
 ## Moduuli 3
 

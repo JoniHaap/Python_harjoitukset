@@ -1,7 +1,7 @@
 import math
 
-säde = float(input("Kerro ympyrän säde:"))
+sade = float(input("Kerro ympyrän säde:"))
 
-pinta_ala = math.pi * säde ** 2
+pinta_ala = math.pi * sade ** 2
 
 print("Ympyrän pinta-ala on:", pinta_ala)
