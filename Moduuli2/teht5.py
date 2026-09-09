@@ -14,4 +14,7 @@ kilogrammat = int(grammat // 1000)
 jaljella_grammat = grammat % 1000
 
 # Tulostetaan tulos
-print("Massa on", kilogrammat, "kilogrammaa ja", jaljella_grammat, "grammaa.")
+print(f"Massa on {kilogrammat},{jaljella_grammat:.0f}", "kilogrammaa.")
+#Koska halutaan käyttää muotoilua niin laita f ennen sulkuja ja muuttuja {}, määrittämällä muuttujaan .0f niin ei tuli grammoille desimaaleja
+#tulosti aluksi tyhmästi kokonaisluvun jälkeen välin joten tehtiin muotoilua niin että tulostaa kilogramma,gramma ilman väliä.
+
