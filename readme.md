@@ -9,7 +9,7 @@ Tein tehtävän
 
 ## Moduuli 2
 
-Tein tehtävän 1, 2, 
+Tein tehtävän 1-6 
 
 ## Moduuli 3
 
