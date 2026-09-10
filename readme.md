@@ -14,7 +14,7 @@ En ollut ihan varma miten teht 5 tulostus tulee näkyä niin on tyylillä x,xx k
 
 ## Moduuli 3
 
-Tehty tehtävä 1
+Tehty tehtävä 1-3
 
 ## Moduuli 4
 
