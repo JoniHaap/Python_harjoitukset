@@ -4,7 +4,7 @@
 #Merkkijono, huomioi aina tekstissä "lainausmerkit"
 nimi = "Joni"
 
-#Kokonaisluku, INTTI
+#Kokonaisluku, INTTI, int
 ika = 18
 
 #Desimaaliluku, FLOAT
