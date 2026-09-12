@@ -1,10 +1,11 @@
 print ("Hei, tämä on karkausvuositarkastusohjelma!")
 vuosi = int(input("Anna vuosiluku: "))
 
-#if vuosi % 4 == 0 and vuosi % 100 != 0 or vuosi % 400 == 0:
-if vuosi % 4 == 0: #Tämä on kesken kun en nyt ymmärrä laskukaavaa tuohon 100 jaollinen ja myös 400 jaollinen 
-    print(vuosi, "on karkausvuosi")
-
+if vuosi % 4 == 0 and vuosi % 100 != 0 or vuosi % 400 == 0:
+    print("vuosi", vuosi, "on karkausvuosi")
+# Osasin tässä kohtaa if vuosi % 4 == 0, mutta sitten en kyllä tajunnut miten tuo loppu kaava menee kirjotettuna. Paperilla kyllä osaisin.
+# googlailin ja kyselin gpt, mutta en jotenkin silti tajua tuota loppuosaa.
+# Pitää pytää selittämään rautalangasta
 
 else:
-    print("vuosi ei ole karkausvuosi")
+    print("vuosi", vuosi, "ei ole karkausvuosi")
