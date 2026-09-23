@@ -27,7 +27,7 @@ while True:
 
 print("Ohjelma päättynyt.")
 
-#Tehtävä: Keksi parempi kohta ilmoitqtaa virheellinen valinta, että ohjelma loppuu oikeaan aikaan
+#Tehtävä: Keksi parempi kohta ilmoittaa virheellinen valinta, että ohjelma loppuu oikeaan aikaan
 #Kommentoi koodi mitä se tekee missäkin kohtaa Tee laskin.py johon tätä kehitetään
 
 

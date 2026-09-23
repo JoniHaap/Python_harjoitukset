@@ -25,6 +25,7 @@ Tehtävä 1 tuskailin yksinkertaisen toistorakenteen kanssa, mutta sain sen toim
 Tehtävä 2 kun yritin tehdä niin, että ei lopeta ohjelmaa tyhjästä vastauksesta niin aluksi vain looppasi ja en tehnyt mielestäni mitään
     luin vain tekstiä ja kun kokeilin uudelleen niin yhtäkkiä toimikin. Jäi mysteeriksi miksi ei aluksi toiminut
 Tehtävä 4 En keksinyt miksi ohjelma EI tulosta ensimmäiseen arvaukseen liian pieni/liian suuri vaan vasta tokan arvauksen jälkeen alkaa kertomaan
+    Keksinkin jälkeenpäin. Oli kahteen kertaan kysymys ja kysyttiin int(input("Arvaa numero välillä 1-10: ennen while toistorakennetta ja siinä oli syy
 6 tehtävää en tehnyt, meni pää pyörälle jo pelkästä lukemisesta, mutta tutkin kyllä gpt avulla miten sen saa tehtyä muutamalla eri tavalla
 
 ## Moduuli 5
