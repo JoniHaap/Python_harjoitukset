@@ -1,8 +1,11 @@
-print("------------TERVETULOA LASKINOHJELMAAN---------------")
+print("\n------------TERVETULOA LASKINOHJELMAAN---------------") #\n tekee tyhjän rivin merkkijonon sisällä
 
 while True:
-    print("Valitse mitä toimintoa haluat käyttää:")
-    print("A: Yhteenlasku, B: Vähennyslasku, C: Kertolasku, D: Jakolasku, Q = Lopeta ohjelma")
+    #Kerrotaan käyttäjälle miten ohjelma toimii print-tulosteilla
+    print("\nValitse mitä toimintoa haluat käyttää:")
+    print("A: Yhteenlasku\nB: Vähennyslasku\nC: Kertolasku\nD: Jakolasku\nQ: Lopeta ohjelma\n")
+
+    #Kysytään mitä toimintoa haluaa käyttää
     valinta = input("Anna valintasi: ").upper() #.upper muuttaa kaikki kirjaimet isoiksi
 
     if valinta == "Q":
@@ -14,9 +17,11 @@ while True:
         print ("Virheellinen valinta!")
         break
 
+    #Kysytään luvut
     a = float(input("Anna ensimmäinen luku: "))
     b = float(input("Anna toinen luku: "))
 
+    #Suoritetaan laskutoimitus
     if valinta == "A":
         print(f"Lukujen {a} ja {b} summa on {a+b}.")
     elif valinta == "B":
@@ -28,4 +33,5 @@ while True:
     else:
         print("Virheellinen valinta")
 
+#Ohjelma on tullut päätökseen
 print("Ohjelma päättynyt.")

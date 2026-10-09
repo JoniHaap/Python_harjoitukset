@@ -30,7 +30,7 @@ Tehtävä 4 En keksinyt miksi ohjelma EI tulosta ensimmäiseen arvaukseen liian 
 
 ## Moduuli 5
 
---
+Tehty tehtävät 1-4
 
 ## Moduuli 6
 
