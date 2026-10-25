@@ -32,6 +32,11 @@ Tehtävä 4 En keksinyt miksi ohjelma EI tulosta ensimmäiseen arvaukseen liian 
 
 Tehty tehtävät 1-4
 
+## Kertaustunti
+
+Tehtävät löytyy nimellä "Kertaustehtävät"
+Tehty tehtävät x-x
+
 ## Moduuli 6
 
 --
