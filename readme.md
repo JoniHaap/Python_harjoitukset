@@ -39,5 +39,5 @@ Tehty tehtävät 1-9
 
 ## Moduuli 6
 
---
+Tehty tehtävät 1-5 ja tehtävä 6 on täysin gpt tekemä
 
