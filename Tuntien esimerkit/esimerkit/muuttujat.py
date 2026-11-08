@@ -9,3 +9,8 @@ ika = 18
 
 #Desimaaliluku, FLOAT
 paino = 5.5
+
+#Listarakenne
+minun_lista = []
+
+

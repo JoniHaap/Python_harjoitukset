@@ -34,8 +34,8 @@ Tehty tehtävät 1-4
 
 ## Kertaustunti
 
-Tehtävät löytyy nimellä "Kertaustehtävät"
-Tehty tehtävät x-x
+Tehtävät löytyy nimellä "Kertaustehtavat"
+Tehty tehtävät 1-9
 
 ## Moduuli 6
 
