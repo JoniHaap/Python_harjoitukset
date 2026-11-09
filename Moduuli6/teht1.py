@@ -8,7 +8,7 @@ import random
 
 # Funktio palauttaa satunnaisen nopan silmäluvun väliltä 1–6
 def heitto():
-    return random.randint(1, 6)
+    return random.randint(1, 6) #Heidi muistutti, jos kokeessa pyydetään määrittämään funktio niin vain tämä määritelmä def-return
 
 # Pääohjelma
 silmaluku = 0

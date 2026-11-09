@@ -41,3 +41,7 @@ Tehty tehtävät 1-9
 
 Tehty tehtävät 1-5 ja tehtävä 6 on täysin gpt tekemä
 
+## Moduuli 7
+
+Tehty x
+
