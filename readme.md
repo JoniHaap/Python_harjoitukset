@@ -43,5 +43,5 @@ Tehty tehtävät 1-5 ja tehtävä 6 on täysin gpt tekemä
 
 ## Moduuli 7
 
-Tehty x
+Tehty tehtävat 1-3, mielestäni kolmos tehtävään olisi voinut olla joku tulosta ominaisuus tai nimihaku mieluummin
 

@@ -5,3 +5,24 @@ Uusi nimi tai Aiemmin syötetty nimi sen mukaan, syötettiinkö nimi ensimmäist
 Lopuksi ohjelma luettelee syötetyt nimet yksi kerrallaan allekkain mielivaltaisessa 
 järjestyksessä. Käytä joukkotietorakennetta nimien tallentamiseen. 
 """
+
+def nimiluettelo():
+    nimet = set()
+
+    while True:
+        nimi = input("Anna nimi: (tyhjä nimi lopettaa ohjelman) ")
+
+        if nimi == "":
+            break
+
+        if nimi in nimet:
+            print("Aiemmin syötetty nimi")
+        else:
+            print("Uusi nimi")
+            nimet.add(nimi)
+
+    print("\nSyötetyt nimet:")
+    for nimi in nimet:
+        print(nimi)
+
+nimiluettelo()
